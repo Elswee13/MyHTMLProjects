@@ -32,6 +32,7 @@ Screenshot
 
 **JS Practices:**
 
+In this folder you will only find few of my Javascript practices.
 
 **P5 Shaders:**
 
