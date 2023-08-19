@@ -40,3 +40,6 @@ In this folder you will only find few of my Javascript practices.
 In this folder you will be seeing alot of Javascript, i made this during my last semester on University. 
 Reading P5 Shaders Book: "Learn Javascript with P5.js".
 
+**GenDesign:**
+
+In this folder is a continuation of some P5 Shaders. In this area i was reading the book:" Getting Started with p5.js Making Interactive Graphics in JavaScript and Processing".
